@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919995994597",
+    "project_id": "login-demo-master",
+    "storage_bucket": "login-demo-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919995994597:android:74aa34c3e6890297c9df0c",
+        "android_client_info": {
+          "package_name": "com.suraj.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919995994597-fknatup32ulljn7jnr9vdtc970oc75c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNzLSavt5d0JN0GR-JTDawR5BHaF4Inc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919995994597-fknatup32ulljn7jnr9vdtc970oc75c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
